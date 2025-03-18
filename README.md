@@ -1,4 +1,4 @@
-CUBIE RUN
+<h1>CUBIE RUN</h1>
 
 Clone of Chrome Dinosaur game made in Raylib. 
 
